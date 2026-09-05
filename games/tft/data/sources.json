@@ -1,0 +1,151 @@
+{
+  "$schema": "./sources.schema.json",
+  "updated": "2026-09-01",
+  "categories": {
+    "official": "First-party Riot/Tencent TFT portals",
+    "aggregator": "Stats sites that crunch ranked match data into meta reports",
+    "community": "Hand-maintained sheets, guides and cheat sheets"
+  },
+  "sources": [
+    {
+      "id": "tft-index-qq",
+      "name": "TFT Index (Tencent)",
+      "url": "https://lol.qq.com/tft/#/index",
+      "category": "official",
+      "provider": "Tencent / Riot China",
+      "topics": [
+        "patch-notes",
+        "champions",
+        "traits",
+        "items"
+      ],
+      "lang": "zh-CN",
+      "notes": "Official Chinese TFT portal. Often lists set data before western sites update."
+    },
+    {
+      "id": "tactics-tools-comps",
+      "name": "Tactics.tools - Team Compositions",
+      "url": "https://tactics.tools/team-compositions",
+      "category": "aggregator",
+      "provider": "tactics.tools",
+      "topics": [
+        "comps"
+      ],
+      "lang": "en",
+      "notes": "Comp tier list with avg placement, play rate and rank filters."
+    },
+    {
+      "id": "tactics-tools-augments",
+      "name": "Tactics.tools - Augments",
+      "url": "https://tactics.tools/augments",
+      "category": "aggregator",
+      "provider": "tactics.tools",
+      "topics": [
+        "augments"
+      ],
+      "lang": "en",
+      "notes": "Augment win/placement stats, filterable by stage and comp."
+    },
+    {
+      "id": "tactics-tools-items",
+      "name": "Tactics.tools - Items",
+      "url": "https://tactics.tools/items",
+      "category": "aggregator",
+      "provider": "tactics.tools",
+      "topics": [
+        "items"
+      ],
+      "lang": "en",
+      "notes": "Item stats and best holders per unit."
+    },
+    {
+      "id": "tacter-meta",
+      "name": "Tacter - TFT Meta",
+      "url": "https://www.tacter.com/tft/meta",
+      "category": "aggregator",
+      "provider": "tacter.com",
+      "topics": [
+        "comps",
+        "meta"
+      ],
+      "lang": "en",
+      "notes": "Meta snapshot with coaching-oriented comp breakdowns."
+    },
+    {
+      "id": "bunnymuffins-meta",
+      "name": "BunnyMuffins - Meta",
+      "url": "https://bunnymuffins.lol/meta/",
+      "category": "aggregator",
+      "provider": "bunnymuffins.lol",
+      "topics": [
+        "comps",
+        "meta"
+      ],
+      "lang": "en",
+      "notes": "High-elo focused meta report."
+    },
+    {
+      "id": "mobalytics-comps",
+      "name": "Mobalytics - Team Comps (pt-BR)",
+      "url": "https://mobalytics.gg/pt_br/tft/team-comps",
+      "category": "aggregator",
+      "provider": "mobalytics.gg",
+      "topics": [
+        "comps",
+        "guides"
+      ],
+      "lang": "pt-BR",
+      "notes": "Comp guides with positioning and item priority. Swap pt_br for another locale if needed."
+    },
+    {
+      "id": "tftactics-comps",
+      "name": "TFTactics - Team Comps Tier List",
+      "url": "https://tftactics.gg/tierlist/team-comps/",
+      "category": "aggregator",
+      "provider": "tftactics.gg",
+      "topics": [
+        "comps",
+        "tierlist"
+      ],
+      "lang": "en",
+      "notes": "Curated S/A/B tier list, lighter on raw stats."
+    },
+    {
+      "id": "metatft-comps",
+      "name": "MetaTFT - Comps",
+      "url": "https://www.metatft.com/comps",
+      "category": "aggregator",
+      "provider": "metatft.com",
+      "topics": [
+        "comps"
+      ],
+      "lang": "en",
+      "notes": "Comp stats plus a companion overlay app."
+    },
+    {
+      "id": "community-cheatsheet",
+      "name": "Community Cheat Sheet (Google Sheets)",
+      "url": "https://docs.google.com/spreadsheets/d/1aEP8kev4DdCod_7fW0-_TTNt1Rhpu6QKrS7zjMLOCD4/htmlview#gid=196125882",
+      "category": "community",
+      "provider": "Google Sheets",
+      "topics": [
+        "cheatsheet",
+        "comps"
+      ],
+      "lang": "en",
+      "notes": "Shared spreadsheet; the #gid anchor points at a specific tab."
+    },
+    {
+      "id": "blitz-comps",
+      "name": "Blitz - Comps",
+      "url": "https://blitz.gg/tft/comps",
+      "category": "aggregator",
+      "provider": "blitz.gg",
+      "topics": [
+        "comps"
+      ],
+      "lang": "en",
+      "notes": "Comp stats from the Blitz desktop app/overlay."
+    }
+  ]
+}
