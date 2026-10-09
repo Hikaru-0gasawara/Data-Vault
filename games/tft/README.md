@@ -40,6 +40,7 @@ data/sources.json         source of truth - every link with category, topics, no
 data/sources.schema.json  JSON Schema describing that file
 scripts/tft_sources.py    CLI: list / add / check / sync / open
 notes/                    per-patch meta notes (see notes/TEMPLATE.md)
+imgs/                     screenshots of notable games, named <patch>-<mode>-<result>.png
 ```
 
 ## Usage
@@ -87,3 +88,13 @@ python scripts/tft_sources.py open tactics-tools-comps
 Copy [`notes/TEMPLATE.md`](notes/TEMPLATE.md) to `notes/<patch>.md` (e.g.
 `notes/15.17.md`) and fill it in while you play. Keeping the notes next to the
 source list makes it easy to see which site a read came from.
+
+## Screenshots
+
+Results worth keeping live in [`imgs/`](imgs), named `<patch>-<mode>-<result>.png`
+so they line up with the matching `notes/<patch>.md`.
+
+| Patch | Mode | Result | File |
+| --- | --- | --- | --- |
+| 26.17 | Normal | 1st place | [26.17-normal-top1.png](imgs/26.17-normal-top1.png) |
+| 26.18 | Ranked | 1st place, +69 LP (Gold II) | [26.18-ranked-top1.png](imgs/26.18-ranked-top1.png) |
