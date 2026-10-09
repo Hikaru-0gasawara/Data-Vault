@@ -12,6 +12,9 @@ Parte de [`!games`](..), no [Data-Vault](../..).
 ## Como a lista funciona
 
 - Checklist em Markdown: troque `- [ ]` por `- [x]` ao terminar o livro.
-- Duas seções, como em [`things-to-watch`](../things-to-watch):
+- Três seções, como em [`things-to-watch`](../things-to-watch):
   **Minha lista** (o que eu escolhi) e **🤖 Indicações do Claude** (sugestões
-  geradas por IA a partir da minha lista, cada uma com `Baseado em: …`).
+  geradas por IA a partir da minha lista, cada uma com `Baseado em: …`),
+  seguidas de **🤖 Indicações do ChatGPT** ao final do arquivo.
+- As indicações do ChatGPT identificam a autoria e a data, explicam a relação
+  com minhas escolhas e incluem links de referência, sem repetir as do Claude.
