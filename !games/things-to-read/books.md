@@ -10,10 +10,10 @@ Livros que quero ler. Marque `[x]` ao terminar.
 
 ## 🤖 Indicações do Claude
 
-> Sugestões feitas pelo **Claude** (IA da Anthropic) em 2026-10-08 a partir dos
-> itens da lista acima — **não são curadoria minha**. Títulos e editoras das
-> edições brasileiras foram conferidos em pesquisa na web (catálogos de
-> editora e livrarias).
+> Sugestões feitas pelo **Claude** (IA da Anthropic) em 2026-10-08 e
+> 2026-10-09 a partir dos itens da lista acima — **não são curadoria minha**.
+> Títulos e editoras das edições brasileiras foram conferidos em pesquisa na
+> web (catálogos de editora e livrarias).
 
 **Completar o projeto *Incerto*, de Taleb** (a partir de Antifrágil, A Lógica do Cisne Negro)
 
@@ -30,45 +30,31 @@ Os dois livros da lista fazem parte da série *Incerto*, de cinco volumes. Falta
 - [ ] **Pensar em Apostas** — Annie Duke (*Thinking in Bets*); decidir bem sem ter todos os fatos. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._
 - [ ] **Nudge: Como tomar melhores decisões** — Richard H. Thaler e Cass R. Sunstein; economia comportamental. _Baseado em: Rápido e Devagar._
 
+**Decisões vistas de outro ângulo** (a partir de Rápido e Devagar, A Lógica do Cisne Negro) — acrescentado em 2026-10-09
+
+- [ ] **Algoritmos para Viver: A ciência exata das decisões humanas** — Brian Christian e Tom Griffiths (*Algorithms to Live By*); ideias da computação aplicadas a decisões do dia a dia. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._
+- [ ] **Previsivelmente Irracional** — Dan Ariely (*Predictably Irrational*); experimentos sobre erros de decisão que se repetem. Leia com senso crítico: um artigo de 2012 de que o autor é coautor foi retratado por problemas nos dados. _Baseado em: Rápido e Devagar._
+
 ## 🤖 Indicações do ChatGPT
 
-> Sugestões feitas pelo **ChatGPT (OpenAI)** em **2026-10-08**, a partir dos
-> três livros de "Minha lista", sem repetir as indicações do Claude.
-> **Não são curadoria minha.** As relações entre os livros são interpretações
-> do ChatGPT; títulos e autores foram consultados nos links de editoras ou
-> do próprio autor. A exceção de idioma está indicada em *Adapt*.
+> Sugestões feitas pelo **ChatGPT** (IA da OpenAI) em 2026-10-08, em duas
+> rodadas, a partir dos itens da lista acima — **não são curadoria minha**.
+> Não repetem a lista nem as indicações do Claude. Formato alinhado ao das
+> outras seções pelo Claude em 2026-10-09; títulos das edições brasileiras
+> conferidos pelo ChatGPT em sites de editoras.
 
-**Acaso, dados e limites das previsões**
+**Acaso, dados e previsões** (a partir de A Lógica do Cisne Negro, Rápido e Devagar)
 
-- [ ] **O andar do bêbado: Como o acaso determina nossas vidas** — Leonard Mlodinow; exemplos cotidianos de como confundimos aleatoriedade com padrões e explicações convincentes. Uma entrada acessível para aprofundar a discussão do acaso. _Baseado em: A Lógica do Cisne Negro, Rápido e Devagar._ [Referência: Companhia das Letras / Zahar](https://www.companhiadasletras.com.br/9788537818107-o-andar-do-bebado-3478/p).
-- [ ] **A arte da estatística: Como aprender a partir de dados** — David Spiegelhalter; amplia a leitura sobre vieses com ferramentas para formular perguntas, interpretar dados e avaliar conclusões. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._ [Referência: Companhia das Letras / Zahar](https://www.companhiadasletras.com.br/livro/9786559790760/a-arte-da-estatistica).
-- [ ] **O sinal e o ruído** — Nate Silver; discute por que previsões falham e em que condições podem melhorar. Eu o leria como contraponto à ênfase de Taleb nos limites de prever, observando as diferenças de abordagem. _Baseado em: A Lógica do Cisne Negro._ [Referência: Intrínseca](https://intrinseca.com.br/livro/o-sinal-e-o-ruido/).
+- [ ] **O Andar do Bêbado: Como o acaso determina nossas vidas** — Leonard Mlodinow (*The Drunkard's Walk*); como confundimos aleatoriedade com padrão. _Baseado em: A Lógica do Cisne Negro, Rápido e Devagar._
+- [ ] **A Arte da Estatística: Como aprender a partir de dados** — David Spiegelhalter (*The Art of Statistics*); ferramentas para interpretar dados e avaliar conclusões. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._
+- [ ] **O Sinal e o Ruído** — Nate Silver (*The Signal and the Noise*); por que previsões falham e quando melhoram; contraponto a Taleb. _Baseado em: A Lógica do Cisne Negro._
+- [ ] **Como Mentir com Estatística** — Darrell Huff (*How to Lie with Statistics*); livro curto sobre gráficos e amostras enganosos. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._
+- [ ] **Tudo É Óbvio: Desde que você saiba a resposta** — Duncan J. Watts (*Everything Is Obvious*); por que o senso comum explica o passado melhor do que prevê o futuro. _Baseado em: A Lógica do Cisne Negro, Rápido e Devagar._
 
-**Decisões e comportamento**
+**Decisões, comportamento e sistemas** (a partir de Rápido e Devagar, Antifrágil)
 
-- [ ] **Misbehaving** — Richard H. Thaler; acompanha a construção da economia comportamental e mostra como escolhas reais desafiam modelos de agentes perfeitamente racionais. Complementa Kahneman com a história e as aplicações econômicas desse campo. _Baseado em: Rápido e Devagar._ [Referência: Intrínseca](https://intrinseca.com.br/livro/misbehaving/).
-- [ ] **Como decidir** — Annie Duke; ferramentas e exercícios para comparar opções e lidar com informação incompleta. É uma obra diferente de *Pensar em Apostas*, já indicada pelo Claude, com proposta mais prática. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._ [Referência: Alta Books](https://altabooks.com.br/produto/como-decidir/).
-
-**Experimentação e adaptação**
-
-- [ ] **Adapt: Why Success Always Starts with Failure** — Tim Harford; explora como experimentos, erros toleráveis e ajustes sucessivos ajudam a enfrentar problemas complexos. Dialoga com a ideia de aprender com perturbações sem tratar toda falha como benéfica. **Referência em inglês; edição brasileira não conferida.** _Baseado em: Antifrágil._ [Referência: site do autor](https://timharford.com/books/adapt/).
-
-**Por onde eu começaria:** *O andar do bêbado* para aprofundar o acaso;
-*Como decidir* para aplicação prática; *Adapt* para continuar a discussão de
-*Antifrágil*, caso queira ler em inglês.
-
-### Mais indicações do ChatGPT — segunda rodada (2026-10-08)
-
-**Revisar certezas e desconfiar de explicações fáceis**
-
-- [ ] **Pense de novo: O poder de saber o que você não sabe** — Adam Grant; explora a disposição para questionar opiniões e mudar de ideia. Complementa o interesse por vieses com uma discussão sobre como revisar crenças na prática. _Baseado em: Rápido e Devagar._ [Referência: Sextante](https://sextante.com.br/products/pense-de-novo).
-- [ ] **Tudo é óbvio: Desde que você saiba a resposta** — Duncan J. Watts; examina por que o senso comum explica tão bem os acontecimentos depois que eles ocorrem, mas ajuda menos do que parece a antecipá-los. _Baseado em: A Lógica do Cisne Negro, Rápido e Devagar._ [Referência: Record / Paz e Terra](https://www.record.com.br/products/tudo-e-obvio/).
-
-**Entender sistemas e ler números com cuidado**
-
-- [ ] **Pensando em sistemas** — Donella H. Meadows; apresenta relações de causa e efeito, ciclos de retroalimentação e consequências inesperadas. Amplia a discussão sobre fragilidade para a estrutura dos sistemas, sem pressupor que a abordagem da autora seja igual à de Taleb. _Baseado em: Antifrágil, A Lógica do Cisne Negro._ [Referência: Sextante](https://sextante.com.br/products/pensando-em-sistemas).
-- [ ] **Como mentir com estatística** — Darrell Huff; uma leitura curta para reconhecer amostras enviesadas, gráficos enganosos e conclusões que os números não sustentam. Serve como exercício de leitura crítica, sem exigir um curso prévio de estatística. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._ [Referência: Intrínseca](https://loja.intrinseca.com.br/como-mentir-com-estatistica/).
-
-**Destaques desta rodada:** *Tudo é óbvio* para questionar explicações
-retrospectivas; *Pensando em sistemas* para aprofundar complexidade;
-*Como mentir com estatística* para uma leitura mais curta.
+- [ ] **Misbehaving** — Richard H. Thaler; a história da economia comportamental contada por um de seus criadores. _Baseado em: Rápido e Devagar._
+- [ ] **Como Decidir** — Annie Duke (*How to Decide*); exercícios práticos para comparar opções; não é o mesmo livro que *Pensar em Apostas*. _Baseado em: Rápido e Devagar, A Lógica do Cisne Negro._
+- [ ] **Pense de Novo: O poder de saber o que você não sabe** — Adam Grant (*Think Again*); como revisar crenças e mudar de ideia. _Baseado em: Rápido e Devagar._
+- [ ] **Pensando em Sistemas** — Donella H. Meadows (*Thinking in Systems*); ciclos de retroalimentação e consequências inesperadas. _Baseado em: Antifrágil, A Lógica do Cisne Negro._
+- [ ] **Adapt: Why Success Always Starts with Failure** — Tim Harford; errar de forma tolerável e ajustar aos poucos para enfrentar problemas complexos; edição brasileira não confirmada. _Baseado em: Antifrágil._

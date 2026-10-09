@@ -17,11 +17,11 @@ Séries, mesmo as de terror, ficam em [`../series/series.md`](../series/series.m
 
 ## 🤖 Indicações do Claude
 
-> Sugestões feitas pelo **Claude** (IA da Anthropic) em 2026-10-08 a partir dos
-> itens da lista acima — **não são curadoria minha**. Títulos, anos e diretores
-> foram conferidos em pesquisa na web; onde o título em português não foi
-> confirmado, está indicado. Disponibilidade em streaming não foi verificada
-> (varia por região).
+> Sugestões feitas pelo **Claude** (IA da Anthropic) em 2026-10-08 e
+> 2026-10-09 a partir dos itens da lista acima — **não são curadoria minha**.
+> Títulos, anos e diretores foram conferidos em pesquisa na web; onde o título
+> em português não foi confirmado, está indicado. Disponibilidade em streaming
+> não foi verificada (varia por região).
 
 **Terror asiático / ocultismo** (a partir de Exhuma, A Mansão Grotesca, Os Escravos de Satanás)
 
@@ -43,46 +43,41 @@ Séries, mesmo as de terror, ficam em [`../series/series.md`](../series/series.m
 - [ ] **Hush: A Morte Ouve** (*Hush*, 2016) — gato e rato numa casa isolada, dir. Mike Flanagan. _Baseado em: O Que Nos Mantêm Vivos, Dolly._
 - [ ] **O Abutre** (*Nightcrawler*, 2014) — thriller, não terror: obsessão fria por violência e mídia. _Baseado em: Red Rooms._
 
+**Coreia do Sul e ameaça dentro de casa** (a partir de Exhuma, O Que Nos Mantêm Vivos, Dolly) — acrescentado em 2026-10-09
+
+- [ ] **Svaha: The Sixth Finger** (*사바하*, 2019, Coreia do Sul) — investigação de uma seita religiosa; fecha a trilogia de ocultismo de Jang Jae-hyun com *Os Sacerdotes* e *Exhuma*; título em português não confirmado. _Baseado em: Exhuma._
+- [ ] **Sleep: O Mal Nunca Dorme** (*Jam*, 2023, Coreia do Sul) — o sonambulismo do marido fica cada vez mais perigoso, e não se sabe se a causa é médica ou sobrenatural, dir. Jason Yu. _Baseado em: O Que Nos Mantêm Vivos, Exhuma._
+- [ ] **Noites Brutais** (*Barbarian*, 2022) — uma casa alugada esconde muito mais do que parece, dir. Zach Cregger. _Baseado em: Dolly, O Que Nos Mantêm Vivos._
+
 ## 🤖 Indicações do ChatGPT
 
-> Sugestões feitas pelo **ChatGPT (OpenAI)** em **2026-10-08**, a partir de
-> "Minha lista", sem repetir títulos já escolhidos ou indicados pelo Claude.
-> **Não são curadoria minha.** As afinidades são interpretações do ChatGPT;
-> os links permitem consultar as obras. Os anos incluem estreias em festivais.
-> Títulos internacionais foram mantidos quando a referência consultada não
-> confirma um nome brasileiro. Disponibilidade no Brasil não foi verificada.
+> Sugestões feitas pelo **ChatGPT** (IA da OpenAI) em 2026-10-08, em duas
+> rodadas, a partir dos itens da lista acima — **não são curadoria minha**.
+> Não repetem a lista nem as indicações do Claude. Formato alinhado ao das
+> outras seções pelo Claude em 2026-10-09, com os títulos em português
+> conferidos em pesquisa na web; onde não foi confirmado, está indicado.
+> Disponibilidade em streaming não foi verificada (varia por região).
 
-**Rituais, maldições e investigação sobrenatural**
+**Rituais, maldições e investigação sobrenatural** (a partir de Exhuma, Os Escravos de Satanás, Caveat)
 
-- [ ] **Noroi: The Curse** (2005, Japão) — uma investigação paranormal montada como documentário, com pistas que se conectam aos poucos; boa aposta para explorar um terror paciente e ritualístico. _Baseado em: Exhuma, A Mansão Grotesca._ [Referência: Shudder](https://www.shudder.com/movies/watch/noroi-the-curse/3087140).
-- [ ] **Marcas da Maldição** (*Incantation*, 2022, Taiwan) — uma mãe tenta proteger a filha de uma maldição ligada à quebra de um tabu religioso; aproxima o medo sobrenatural dos vínculos familiares. _Baseado em: Exhuma, Os Escravos de Satanás._ [Referência: Netflix](https://www.netflix.com/br/title/81599888).
-- [ ] **The Medium** (2021, Tailândia/Coreia do Sul) — xamanismo, uma família e manifestações cada vez mais perturbadoras, em formato de falso documentário; indicado para aprofundar o interesse por crenças locais no terror asiático. _Baseado em: Exhuma, Os Escravos de Satanás._ [Referência: Netflix](https://www.netflix.com/sg/title/81497415).
-- [ ] **A Dark Song** (2016) — uma mulher e um ocultista se isolam para realizar um ritual perigoso; a tensão vem da convivência, das regras e da espera. _Baseado em: Caveat (claustrofobia), Exhuma (rituais)._ [Referência: Samson Films](https://www.samsonfilms.com/items/a-dark-song).
+- [ ] **Noroi: The Curse** (2005, Japão) — investigação paranormal em formato de documentário, com pistas que se conectam aos poucos; título em português não confirmado. _Baseado em: Exhuma, A Mansão Grotesca._
+- [ ] **Marcas da Maldição** (*Incantation*, 2022, Taiwan) — uma mãe tenta proteger a filha de uma maldição ligada a um tabu religioso quebrado. _Baseado em: Exhuma, Os Escravos de Satanás._
+- [ ] **A Médium** (*The Medium*, 2021, Tailândia/Coreia do Sul) — falso documentário sobre xamanismo e possessão numa família. _Baseado em: Exhuma, Os Escravos de Satanás._
+- [ ] **Vozes da Escuridão** (*A Dark Song*, 2016, Irlanda/Reino Unido) — uma mulher e um ocultista se isolam para realizar um ritual perigoso. _Baseado em: Caveat, Exhuma._
+- [ ] **O Ritual** (*The Ritual*, 2017) — amigos perdidos numa floresta encontram uma presença ligada a crenças antigas. _Baseado em: Exhuma, O Que Nos Mantêm Vivos._
 
-**Casas inquietantes e obsessão psicológica**
+**Casas e lugares assombrados** (a partir de A Mansão Grotesca, Caveat)
 
-- [ ] **The Night House** (2020; lançamento comercial em 2021) — uma viúva investiga os segredos do marido numa casa à beira de um lago; combina presença sobrenatural, isolamento e descoberta gradual. _Baseado em: Caveat, A Mansão Grotesca._ [Referência: Searchlight](https://www.searchlightpictures.com/thenighthouse).
-- [ ] **Saint Maud** (2019) — uma cuidadora se convence de que precisa salvar a alma de sua paciente; uma sugestão pelo desconforto da obsessão e pela perspectiva de uma personagem difícil de decifrar. _Baseado em: Red Rooms._ [Referência: BFI](https://player.bfi.org.uk/rentals/film/watch-saint-maud-2019-online).
-- [ ] **Cure** (1997, Japão) — assassinatos aparentemente desconectados levam um detetive a uma investigação marcada por tensão psicológica e ambiguidade; aproximação pelo mal-estar, não pela mesma premissa. _Baseado em: Red Rooms._ [Referência: Criterion](https://www.criterion.com/films/27666-cure).
+- [ ] **A Casa Sombria** (*The Night House*, 2020) — uma viúva descobre segredos do marido numa casa à beira de um lago. _Baseado em: Caveat, A Mansão Grotesca._
+- [ ] **Gonjiam: O Manicômio Assombrado** (*Gonjiam: Haunted Asylum*, 2018, Coreia do Sul) — uma equipe transmite ao vivo a exploração de um hospital psiquiátrico abandonado. _Baseado em: A Mansão Grotesca._
+- [ ] **Pulse** (*Kairo*, 2001, Japão) — aparições se espalham pela internet; terror lento sobre solidão, dir. Kiyoshi Kurosawa; título em português não confirmado. _Baseado em: Caveat, A Mansão Grotesca._
 
-**Sobrevivência e ameaça humana**
+**Obsessão e paranoia** (a partir de Red Rooms, O Que Nos Mantêm Vivos)
 
-- [ ] **Green Room** (2015; lançamento comercial nos EUA em 2016) — uma banda fica encurralada depois de testemunhar violência nos bastidores de um show; suspense de sobrevivência físico, brutal e concentrado num espaço fechado. _Baseado em: O Que Nos Mantêm Vivos, Dolly: A Boneca Maldita._ [Referência: A24](https://a24films.com/films/green-room).
+- [ ] **Saint Maud** (2019, Reino Unido) — uma cuidadora fica obcecada em salvar a alma da paciente. _Baseado em: Red Rooms._
+- [ ] **A Cura** (*Kyua / Cure*, 1997, Japão) — um detetive investiga assassinatos aparentemente desconectados, dir. Kiyoshi Kurosawa. _Baseado em: Red Rooms._
+- [ ] **O Convite** (*The Invitation*, 2015) — num jantar, um homem passa a desconfiar das intenções dos anfitriões, dir. Karyn Kusama. _Baseado em: O Que Nos Mantêm Vivos, Red Rooms._
 
-**Por onde eu começaria:** *Noroi: The Curse* para o lado de *Exhuma*;
-*A Dark Song* para o de *Caveat*; *Cure* para o de *Red Rooms*.
+**Sobrevivência** (a partir de O Que Nos Mantêm Vivos, Dolly)
 
-### Mais indicações do ChatGPT — segunda rodada (2026-10-08)
-
-**Lugares assombrados e ameaças que se revelam aos poucos**
-
-- [ ] **O Ritual** (*The Ritual*, 2017) — amigos se perdem numa floresta e encontram uma presença ameaçadora; combina sobrevivência, culpa e crenças antigas. _Baseado em: Exhuma (terror ritualístico), O Que Nos Mantêm Vivos (isolamento e sobrevivência)._ [Referência: Apple TV](https://tv.apple.com/br/movie/o-ritual/umc.cmc.5nj7v0rnviyr67mebbb09abwa).
-- [ ] **Gonjiam: Haunted Asylum** (2018, Coreia do Sul) — uma equipe transmite uma exploração de um hospital abandonado, até que os sustos preparados deixam de explicar o que acontece; aposta mais direta em espaço assombrado e escalada de medo. _Baseado em: A Mansão Grotesca._ [Referência: Well Go USA](https://wellgousa.com/films/gonjiam-haunted-asylum).
-- [ ] **Pulse** (*Kairo*, 2001, Japão) — aparições atravessam a internet e contaminam espaços cotidianos; um terror lento sobre solidão, ausência e ambientes que parecem errados. _Baseado em: Caveat (atmosfera inquietante), A Mansão Grotesca (assombrações em espaços cotidianos)._ [Referência: BFI](https://www.bfi.org.uk/lists/10-great-technothrillers).
-
-**Paranoia entre pessoas próximas**
-
-- [ ] **The Invitation** (2015, dir. Karyn Kusama) — um jantar na casa da ex-esposa faz um homem desconfiar das intenções dos anfitriões; a tensão depende de gestos, conversas e da dúvida sobre em quem confiar. _Baseado em: O Que Nos Mantêm Vivos, Red Rooms._ [Referência: SXSW](https://schedule.sxsw.com/2015/events/event_FS17813).
-
-**Destaques desta rodada:** *Gonjiam* para sustos mais diretos; *Pulse* para
-atmosfera e estranheza; *The Invitation* para desconfiança crescente.
+- [ ] **Sala Verde** (*Green Room*, 2015) — uma banda fica encurralada depois de testemunhar um crime nos bastidores de um show. _Baseado em: O Que Nos Mantêm Vivos, Dolly._

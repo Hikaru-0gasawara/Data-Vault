@@ -34,7 +34,8 @@ games/
 ## Convenções
 
 - As listas de `!games/` são checklists em Markdown (`- [ ]` → `- [x]` ao concluir),
-  com uma seção **Minha lista** e outra **🤖 Indicações do Claude** — sugestões
-  geradas por IA, sempre separadas, com data e `Baseado em: …`. Detalhes e
-  contagem das indicações em [`!games/README.md`](!games/README.md).
+  com uma seção **Minha lista** seguida de uma seção por IA (**🤖 Indicações do
+  Claude**, **🤖 Indicações do ChatGPT**), sempre separadas, com data e
+  `Baseado em: …`. Formato padrão e contagem em
+  [`!games/README.md`](!games/README.md#formato-das-indicações).
 - Pastas e arquivos têm nome em inglês; o conteúdo das listas é em português.

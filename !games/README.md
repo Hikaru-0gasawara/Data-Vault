@@ -27,36 +27,59 @@ Parte do [Data-Vault](..).
 ## Como as listas funcionam
 
 As listas de `things-to-watch/` e `things-to-read/` são checklists em Markdown:
-troque `- [ ]` por `- [x]` ao assistir ou ler. Todas seguem o mesmo formato, com
-três seções:
+troque `- [ ]` por `- [x]` ao assistir ou ler. Cada arquivo tem, nesta ordem:
 
 1. **Minha lista** — o que eu mesmo escolhi.
-2. **🤖 Indicações do Claude** — sugestões geradas por IA a partir da minha lista.
-   Ficam sempre separadas, com a data, e cada item traz `Baseado em: …`
-   apontando o que o motivou. Não são curadoria minha; quando eu gostar de uma,
-   movo para "Minha lista".
-3. **🤖 Indicações do ChatGPT** — novas sugestões do ChatGPT (OpenAI),
-   acrescentadas ao final de cada lista, abaixo das indicações do Claude,
-   com data, justificativa, `Baseado em: …` e links de referência.
-   Também não são curadoria minha e não repetem os títulos já listados.
+2. **🤖 Indicações do Claude** — sugestões do Claude (Anthropic).
+3. **🤖 Indicações do ChatGPT** — sugestões do ChatGPT (OpenAI).
+
+Uma IA nova entra como mais uma seção `## 🤖 Indicações do <IA>` no fim do
+arquivo. Indicações não são curadoria minha: quando eu gostar de uma, movo para
+"Minha lista".
 
 `things-to-remember/` é texto puro, sem checklist nem indicações.
+
+## Formato das indicações
+
+Toda seção de indicações de IA segue o mesmo formato, para que as listas
+fiquem comparáveis:
+
+- **Cabeçalho:** `## 🤖 Indicações do <IA>`, seguido de uma citação (`>`) que
+  diz quem fez (IA e empresa), a data, que **não são curadoria minha**, o que
+  foi conferido e o que não foi (ex.: streaming).
+- **Grupos por tema:** `**Tema** (a partir de <itens da Minha lista>)`.
+  Uma rodada posterior vira um grupo novo com `— acrescentado em AAAA-MM-DD`
+  no fim do título, dentro da mesma seção. Não há subseção por rodada.
+- **Filme ou série, uma linha por item:**
+  `- [ ] **Título em português** (*título original*, ano, país/plataforma) — descrição curta. _Baseado em: X, Y._`
+  Se o título em português for igual ao original, ele não se repete. Se não
+  foi confirmado, o item diz `título em português não confirmado`.
+- **Livro, uma linha por item:**
+  `- [ ] **Título em português** — Autor (*título original*); nota curta. _Baseado em: X._`
+- **`Baseado em`** cita itens da Minha lista. Itens de outra lista levam a
+  origem entre parênteses: `Caveat (lista de terror)`.
+- **Fica de fora:** links, blocos "por onde começar" ou "destaques" e texto em
+  primeira pessoa da IA. O arquivo é escrito na minha voz.
+- **Sem repetição:** nenhuma indicação repete a Minha lista ou outra seção.
 
 Para criar um gênero novo de filme, copie a estrutura de
 [`horror-terror/films.md`](things-to-watch/horror-terror/films.md) para
 `things-to-watch/<genero>/films.md`. Séries vão sempre em `series/series.md`,
 com o gênero anotado na linha.
 
-## Indicações do Claude
+## Indicações por IA
 
-Todas feitas em 2026-10-08, com título, ano e diretor conferidos na web.
+| Lista | Minha lista | Claude | ChatGPT |
+|-------|-------------|--------|---------|
+| [Filmes de terror](things-to-watch/horror-terror/films.md) | 9 | 14 | 12 |
+| [Séries](things-to-watch/series/series.md) | 6 | 10 | 10 |
+| [Livros](things-to-read/books.md) | 3 | 9 | 10 |
+| [Filmes de romance](things-to-watch/romance/films.md) | 0 | 0 — lista vazia | 7, exploratórias |
 
-| Lista | Indicações |
-|-------|------------|
-| [Filmes de terror](things-to-watch/horror-terror/films.md) | 11 filmes |
-| [Séries](things-to-watch/series/series.md) | 7 séries |
-| [Livros](things-to-read/books.md) | 7 livros |
-| [Filmes de romance](things-to-watch/romance/films.md) | nenhuma — a lista ainda está vazia |
+- **Claude:** 2026-10-08 e 2026-10-09. Títulos, anos e diretores conferidos na
+  web.
+- **ChatGPT:** 2026-10-08, em duas rodadas. Formato alinhado ao padrão acima
+  pelo Claude em 2026-10-09, com títulos em português conferidos.
 
 ## Sobre o nome
 
@@ -66,27 +89,3 @@ dispara expansão de histórico, então cite o nome entre aspas simples:
 ```bash
 cd '!games'
 ```
-
-## Indicações do ChatGPT
-
-Acrescentadas em **2026-10-08**, após a leitura de todos os arquivos de
-`!games/`. As sugestões estão dentro dos arquivos de lista existentes,
-abaixo das indicações do Claude.
-
-| Lista | Novas indicações do ChatGPT |
-|-------|---------------------------|
-| [Filmes de terror](things-to-watch/horror-terror/films.md#-indicações-do-chatgpt) | 12 filmes |
-| [Séries](things-to-watch/series/series.md#-indicações-do-chatgpt) | 10 séries |
-| [Livros](things-to-read/books.md#-indicações-do-chatgpt) | 10 livros |
-| [Filmes de romance](things-to-watch/romance/films.md#-indicações-do-chatgpt) | 7 filmes, por afinidade com as outras listas |
-
-A seleção explora terror ritualístico e psicológico, ficção científica,
-investigações e decisões sob incerteza. Cada lista também sugere por onde
-começar. Romance é uma seleção exploratória, pois ainda não há escolhas
-pessoais nessa categoria. As anotações de `things-to-remember/` permanecem
-sem indicações.
-
-**Segunda rodada do ChatGPT — 2026-10-08:** mais 15 sugestões acrescentadas
-ao final das listas (4 filmes de terror, 4 séries, 4 livros e 3 romances),
-totalizando **39 indicações do ChatGPT**, sem repetir as escolhas pessoais,
-as indicações do Claude ou a primeira rodada.

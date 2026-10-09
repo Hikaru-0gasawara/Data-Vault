@@ -5,7 +5,7 @@ Parte de [`!games`](..), no [Data-Vault](../..).
 
 | Arquivo | O que tem |
 |---------|-----------|
-| [`python.txt`](python.txt) | Lembretes de Python (vazio por enquanto) |
+| [`python.txt`](python.txt) | Lembretes de Python (ferramentas: `uv`, `uvicorn`) |
 | [`random.txt`](random.txt) | Anotação avulsa |
 
 Diferente de [`things-to-watch`](../things-to-watch) e
